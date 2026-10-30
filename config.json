@@ -1,0 +1,11 @@
+{
+  "nome": "Sabor da Casa",
+  "whatsapp": "",
+  "urlPublica": "",
+  "horario": "Consulte o horário de funcionamento pelo WhatsApp.",
+  "taxasEntrega": {
+    "Retirada": 0,
+    "Centro": 5,
+    "Outro bairro": null
+  }
+}

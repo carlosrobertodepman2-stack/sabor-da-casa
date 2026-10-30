@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nome": "Pastel de Carne",
+    "categoria": "Pastéis",
+    "preco": 10,
+    "emoji": "🥟",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 2,
+    "nome": "Pastel de Queijo",
+    "categoria": "Pastéis",
+    "preco": 9,
+    "emoji": "🧀",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 3,
+    "nome": "Pastel de Frango",
+    "categoria": "Pastéis",
+    "preco": 11,
+    "emoji": "🥟",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 4,
+    "nome": "X-Bacon",
+    "categoria": "Lanches",
+    "preco": 22,
+    "emoji": "🍔",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 5,
+    "nome": "X-Salada",
+    "categoria": "Lanches",
+    "preco": 19,
+    "emoji": "🍔",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 6,
+    "nome": "Coxinha de Frango",
+    "categoria": "Salgados",
+    "preco": 7,
+    "emoji": "🍗",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 7,
+    "nome": "Batata Frita",
+    "categoria": "Porções",
+    "preco": 16,
+    "emoji": "🍟",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 8,
+    "nome": "Coca-Cola Lata",
+    "categoria": "Bebidas",
+    "preco": 6,
+    "emoji": "🥤",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 9,
+    "nome": "Suco Natural",
+    "categoria": "Bebidas",
+    "preco": 8,
+    "emoji": "🧃",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  },
+  {
+    "id": 10,
+    "nome": "Combo X-Bacon",
+    "categoria": "Combos",
+    "preco": 31,
+    "emoji": "🍔",
+    "descricao": "Produto de demonstração; confirme ingredientes e disponibilidade.",
+    "foto": ""
+  }
+]
